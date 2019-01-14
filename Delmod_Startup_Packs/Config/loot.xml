@@ -1,0 +1,71 @@
+<config>
+<!-- Survival Backpack Start-->
+
+<insertAfter xpath="/lootcontainers/lootgroup[@name='BuriedStashChest']" >
+<lootgroup name="SurvivorClothes" count="all">
+	<item group="shirtLongAll"/>
+	<item group="pantsAll"/>
+	<item group="denimShortsPantsAll"/>
+	<item group="bandanaAll"/>
+	<item group="tshirtAll"/>
+	<item group="lightArmor" prob="0.1"/>
+	<item group="leatherArmor" prob="0.03"/>
+	<item group="militaryArmor" prob="0.5"/>
+	<item group="scrapArmor" prob="0.05"/>
+	<item group="ironArmor" prob="0.03"/>
+</lootgroup>
+	</insertAfter>
+	<insertAfter xpath="/lootcontainers/lootgroup[@name='SurvivorClothes']" >
+
+<!--lootgroup name="BootsAll" count="1">
+	<item name="wornBoots"/>
+	<item name="cowboyBoots"/>
+	<item name="armorMilitaryBoots"/>
+</lootgroup>
+
+	</insertAfter>
+	<insertAfter xpath="/lootcontainers/lootgroup[@name='BootsALL']" -->
+	
+<lootgroup name="SpecialForceCase1" count="all">  
+	<item group="SurvivorClothes" />
+	<!--item group="BootsALL" /-->
+	<item name="armorMilitaryBoots" />
+	<item name="modArmorWaterPurifier" count="1" />
+	<item name="casinoCoin" count="5000"/>		
+	<item name="medicalFirstAidKit" count="5"/>
+	<item name="medicalFirstAidBandage" count="10"/>		
+	<item name="drinkJarBoiledWater" count="6,12" />
+    <item group="airdropfood" count="4,6" />
+</lootgroup>  
+		
+<lootgroup name="SpecialForceCase2" count="all"> 
+	<item name="gunAK47" mods="barrelAttachments,sideAttachments,smallTopAttachments,scope,trigger" count="1" quality="6,6" />		
+	<item name="gunPistol" mods="barrelAttachments,sideAttachments,smallTopAttachments,scope,trigger" count="1" quality="6,6" />
+	<item name="ammo9mmBullet" count="80,220"/>
+	<item name="ammo762mmBulletFMJ" count="50,140"/>
+	<item name="modArmorBandolier" count="1" />
+	<item name="modArmorInsulatedLiner" count="1" />
+	<item name="modArmorCoolingMesh" count="1" />
+	<item name="modGunReflexSight" count="1" />
+	<item name="modGunForegrip" count="1" />
+	<item name="modGunRetractingStock" count="1" />
+	<item name="modGunMagazineExtender" count="1" />
+	<item name="shades" count="1" />
+	<item name="meleeToolHuntingKnife" count="1" quality="6,6" />
+	<item name="resourceRepairKit" count="30" />
+</lootgroup>  
+	
+	<!-- Survival Backpack Finish -->
+	</insertAfter>
+<insertAfter xpath="/lootcontainers/lootcontainer[@id='110']" >
+<!-- Survival Backpacks Start -->
+<lootcontainer id="221" count="1" size="6,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1.5" >
+    <item group="SpecialForceCase1" />
+</lootcontainer>
+
+<lootcontainer id="222" count="1" size="6,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1.5" >
+    <item group="SpecialForceCase2" />
+</lootcontainer>
+<!-- Survival Backpacks End -->
+</insertAfter>
+</config>

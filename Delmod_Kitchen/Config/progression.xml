@@ -1,0 +1,8 @@
+<config>		
+		
+
+		
+<!-- Add oven and sink to progression -->
+	<set xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='workbench,tableSaw,generatorbank,electricwirerelay,switch,ceilingLight01_player,gunCrossbow,gunCompoundBow,armorMiningHelmet']/@tags">workbench,tableSaw,workingOven,workingStove,workingCabinetSink,workingGranitSink,generatorbank,electricwirerelay,switch,ceilingLight01_player,gunCrossbow,gunCompoundBow,armorMiningHelmet</set>
+	
+</config>
