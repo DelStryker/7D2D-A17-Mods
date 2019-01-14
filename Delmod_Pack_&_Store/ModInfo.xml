@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="S420_SimpleUI-BiggerBackpack60" />
-		<Description value="Increases player backpack size" />
-		<Author value="stedman420" />
+		<Name value="Delmod Pack & Store" />
+		<Description value="60 Slot Backpack and Larger Storage Containers" />
+		<Author value="Del Stryker" />
 		<Version value="1.0" />
 		<Website value="" />
 	</ModInfo>
