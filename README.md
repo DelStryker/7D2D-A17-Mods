@@ -10,7 +10,7 @@
 <!----------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------------------------------------------------------------------------->
-
+Delmod's A17 Modlet Collection
 
 This currently a set of modlets that I have thrown together to provide some sensible quality improvements, and add a few more items to the game.  The usual disclaimers and rules apply.  I created this for my own personal use among my tribe.  These Mods are very much works in progress and will be updated and/or improved and added to as my time allows and as I see fit.  Of course, additions. corrections, and suggestions are ALWAYS welcome.  
 
