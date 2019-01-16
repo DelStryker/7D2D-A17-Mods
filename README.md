@@ -1,4 +1,4 @@
-- - - - Delmod A17 Modlet Collection - - - - 
+Delmod A17 Modlet Collection
 
 This is currently a set of modlets that I have thrown together to provide some sensible quality improvements, and add a few more items to the game. The usual disclaimers and rules apply. 
 
