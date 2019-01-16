@@ -1,5 +1,4 @@
-
-<config>		
+<delmod>		
 <!-- Add Acid and Log Spikes to AdvancedEngineering progression -->
 <!--<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@level='2,5']/@tags"></append>-->
 	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@level='1,5']/@tags">,resourceAcid,woodLogSpike1</append>
@@ -7,8 +6,6 @@
 	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@level='3,5']/@tags">,rWoodMetalLogSpike3,scrapIronLogSpike4</append>
 	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@level='4,5']/@tags">,rScrapIronLogSpike5</append>
 	<append xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@level='5']/@tags">,steelLogSpike6</append>
-	
 <!-- Add Solar Bank and Solar Cell to Yeah Science progression -->
 	<append xpath="/progression/perks/perk[@name='perkYeahScience']/effect_group/passive_effect[@name='RecipeTagUnlocked' and @value='1' and @level='5']/@tags">,solarbank,solarCell</append>
-	
-</config>
+</delmod>

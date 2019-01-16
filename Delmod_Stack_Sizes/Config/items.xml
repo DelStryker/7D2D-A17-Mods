@@ -1,48 +1,33 @@
-<config>
+<delmod>
 	<set xpath="/items/item[contains(@name,'medicalAloe')]/property[@name='Stacknumber']/@value">100</set>
 	<set xpath="/items/item[contains(@name,'medicalBandage')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'medicalFirstAidBandage')]/property[@name='Stacknumber']/@value">20</set>
 	<set xpath="/items/item[contains(@name,'medicalFirstAidKit')]/property[@name='Stacknumber']/@value">10</set>
-	
 	<set xpath="/items/item[contains(@name,'drug')]/property[@name='Stacknumber']/@value">500</set>
-
 	<set xpath="/items/item[contains(@name,'ammo9mm')]/property[@name='Stacknumber']/@value">1000</set>
 	<set xpath="/items/item[contains(@name,'ammoShot')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'ammoBlunder')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'ammoArrow')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'ammoCross')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'ammoRocket')]/property[@name='Stacknumber']/@value">40</set>
-
-
 	<set xpath="/items/item[contains(@name,'foodHoney')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'foodCornMeal')]/property[@name='Stacknumber']/@value">1000</set>
 	<set xpath="/items/item[contains(@name,'foodCropBlueberries')]/property[@name='Stacknumber']/@value">1000</set>
 	<set xpath="/items/item[contains(@name,'foodCropMushrooms')]/property[@name='Stacknumber']/@value">1000</set>
-	
 	<set xpath="/items/item[contains(@name,'drinkJarBoiledWater')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'drinkJarYuccaJuice')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'drinkJarGoldenRodTea')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'drinkJarRedTea')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'drinkYuccaJuiceSmoothie')]/property[@name='Stacknumber']/@value">50</set>
 	<set xpath="/items/item[contains(@name,'drinkJarCoffee')]/property[@name='Stacknumber']/@value">50</set>
-
-
 	<set xpath="/items/item[contains(@name,'resourceCrop')]/property[@name='Stacknumber']/@value">1000</set>
 	<set xpath="/items/item[contains(@name,'resourceFeather')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'resourceArrowHead')]/property[@name='Stacknumber']/@value">500</set>
 	<set xpath="/items/item[contains(@name,'resourceGunPowder')]/property[@name='Stacknumber']/@value">1000</set>
 	<set xpath="/items/item[contains(@name,'resourceBuckshot')]/property[@name='Stacknumber']/@value">500</set>
-
 	<set xpath="/items/item[contains(@name,'resourceBullet')]/property[@name='Stacknumber']/@value">1000</set>
-	
 	<set xpath="/items/item[contains(@name,'resourceRepairKit')]/property[@name='Stacknumber']/@value">100</set>
 	<set xpath="/items/item[contains(@name,'resourceOil')]/property[@name='Stacknumber']/@value">100</set>
-	
 	<set xpath="/items/item[contains(@name,'resourceFishingWeight')]/property[@name='Stacknumber']/@value">1000</set>
-
 	<set xpath="/items/item[contains(@name,'resourceSilverNugget')]/property[@name='Stacknumber']/@value">500</set>
-	
-	
-
-
-</config>
+</delmod>

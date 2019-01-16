@@ -1,6 +1,5 @@
+<delmod>
 <!--  Delmod Recipes Fix  1.01a-->
-
-<configs>
     <!-- Food Fix's -->
 	<set xpath="recipes/recipe[@name='foodBaconAndEggs']/ingredient[@name='foodRawMeat']/@count">1</set> <!-- set count to 1 -->
 	<set xpath="recipes/recipe[@name='foodBoiledMeat']/ingredient[@name='foodRawMeat']/@count">1</set> <!-- set count to 1 -->
@@ -99,4 +98,4 @@
 		</recipe>
 		
 	</append>
-</configs>
+</delmod>
