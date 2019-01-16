@@ -13,7 +13,7 @@
 
 	<set xpath="blocks/block[@name='steelLogSpike6']/property[@name='Damage']/@value">100</set>
 
-	<append xpath="blocks/block[@name=steelLogSpike6']"> 	
+	<append xpath="blocks/block[@name='steelLogSpike6']"> 	
 		<property name="DontDamageOnTouch" value="true" />
 		<property name="BuffsWhenWalkedOn" value="trapDamage1Trigger"/>
 	</append>
