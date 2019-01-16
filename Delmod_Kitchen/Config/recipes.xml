@@ -1,4 +1,4 @@
-<config>
+<delmod>
 	<append xpath="/recipes">	
 	<!--Working Ovens and Sinks Mod -->
 	<recipe name="workingOven" count="1" craft_area="workbench" tags="learnable">
@@ -27,4 +27,4 @@
 		<ingredient name="resourceMetalPipe" count="5" />
 	</recipe>
 </append>
-</config>
+</delmod>

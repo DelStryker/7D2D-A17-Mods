@@ -1,6 +1,5 @@
-<config>
-	<append xpath="/blocks">
-
+<delmod>
+<append xpath="/blocks">
 		<!-- Del's Working Oven and Sink Mod -->
 	<block name="workingOven">
 		<property name="DescriptionKey" value="workingOvenDesc" />
@@ -117,4 +116,4 @@
 	</block>
 	
 	</append>
-</config>
+</delmod>
