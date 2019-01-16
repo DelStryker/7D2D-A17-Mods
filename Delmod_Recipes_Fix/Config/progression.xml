@@ -1,0 +1,6 @@
+<config>		
+		
+<!-- Add acid to progression -->
+	<set xpath="/progression/perks/perk[@name='perkAdvancedEngineering']/effect_group/passive_effect[@tags='ammoGasCan,drinkJarGrainAlcohol,resourceBulletCasing,resourceBulletTip,resourceBulletCasingSteel,ammo9mmBullet,ammo44MagnumBullet,ammoShotgunShell,ammo762mmBulletFMJ,chemistryStation,thrownAmmoPipeBomb,tnt,mineHubcap,mineCookingPot']/@tags">ammoGasCan,drinkJarGrainAlcohol,resourceAcid,resourceBulletCasing,resourceBulletTip,resourceBulletCasingSteel,ammo9mmBullet,ammo44MagnumBullet,ammoShotgunShell,ammo762mmBulletFMJ,chemistryStation,thrownAmmoPipeBomb,tnt,mineHubcap,mineCookingPot</set>
+	
+</config>
