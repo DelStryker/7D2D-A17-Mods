@@ -1,5 +1,5 @@
 <delmod>
-<!--- Loot Groups with contents of bags--->
+<!-- Loot Groups with contents of bags -->
 <insertAfter xpath="/lootcontainers/lootgroup[@name='BuriedStashChest']" >
 	<lootgroup name="SurvivorClothes" count="all">
 		<item group="shirtLongAll"/>
@@ -50,7 +50,7 @@
 		<item name="resourceRepairKit" count="30" />
 	</lootgroup>  
 </insertAfter>
-<!--- Loot Containers  ---->
+<!-- Loot Containers  -->
 
 <insertAfter xpath="/lootcontainers/lootcontainer[@id='110']" >
 	<lootcontainer id="221" count="1" size="6,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1.5" >
