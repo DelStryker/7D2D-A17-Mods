@@ -20,6 +20,7 @@ Added Solar Cell
 
 Added 6 level Log Spike Traps back with ascending increased damage  -  Requires Advanced Engineering perk and Table Saw to craft.
 
+Added recipe for Beaker at the forge
 
 
 More recipes will be forthcoming as I am able,...
