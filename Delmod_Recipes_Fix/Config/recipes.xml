@@ -80,22 +80,22 @@
 
 		<!-- Appending Additional Recipes  Solar Log Traps  -  1.01a  -->
 		<recipe name="solarbank" count="1" craft_area="workbench" tags="learnable">
-			<ingredient name="resourceForgedSteel" count="14"/>
-			<ingredient name="resourceScrapPolymers" count="14"/>
-			<ingredient name="resourceElectricParts" count="20"/>
-			<ingredient name="resourceAcid" count="1"/>
-			<ingredient name="glassBulletproofPlate" count="6"/>
+			<ingredient name="resourceForgedSteel" count="36"/>
+			<ingredient name="resourceScrapPolymers" count="16"/>
+			<ingredient name="resourceElectricParts" count="36"/>
+			<ingredient name="resourceAcid" count="4"/>
+			<ingredient name="glassBulletproofPlate" count="4"/>
 		</recipe>
 		<recipe name="solarCell" count="1" craft_area="workbench" tags="learnable">
-			<ingredient name="resourceForgedSteel" count="8"/>
-			<ingredient name="resourceScrapPolymers" count="8"/>
-			<ingredient name="resourceElectricParts" count="4"/>
+			<ingredient name="resourceForgedSteel" count="4"/>
+			<ingredient name="resourceScrapPolymers" count="4"/>
+			<ingredient name="resourceElectricParts" count="9"/>
 			<ingredient name="resourceAcid" count="1"/>
 			<ingredient name="glassBulletproofPlate" count="1"/>
 		</recipe>
 		
-		<recipe name="woodLogSpike1" count="1">
-			<ingredient name="resourceWood" count="30" craft_area="tableSaw" tags="learnable"/>
+		<recipe name="woodLogSpike1" count="1" craft_area="tableSaw" tags="learnable">
+			<ingredient name="resourceWood" count="30"/>
 		</recipe>
 		
 	</append>
