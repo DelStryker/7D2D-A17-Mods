@@ -1,5 +1,5 @@
-<configs>
-	<!-- Player backpack window -->
+<delmod>
+	<!-- Player's backpack window -->
 	<set xpath="/windows/window[@name='windowBackpack']/@width">673</set>
 	<set xpath="/windows/window[@name='windowBackpack']/@height">416</set>
 	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/@height">370</set>
@@ -7,4 +7,4 @@
 	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/sprite[@name='backgroundMain']/@height">403</set>
 	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/grid[@name='inventory']/@rows">6</set>
 	<set xpath="/windows/window[@name='windowBackpack']/panel[@name='content']/grid[@name='inventory']/@cols">10</set>
-</configs>
+</delmod>

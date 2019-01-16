@@ -1,4 +1,4 @@
-<configs>
+<delmod>
     <!-- Player Backpack-->
 	<set xpath="/lootcontainers/lootcontainer[@id='2']/@size">8,10</set>
     <!-- Nightstand, wooden desk: pistol, ammo, magazines, books-->
@@ -17,4 +17,4 @@
 	<set xpath="/lootcontainers/lootcontainer[@id='49']/@size">6,6</set>
 	<!-- Medical Cabinet and Pill Case-->
 	<set xpath="/lootcontainers/lootcontainer[@id='106']/@size">6,6</set>
-</configs>
+</delmod>
