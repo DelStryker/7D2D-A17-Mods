@@ -1,0 +1,20 @@
+<config>
+
+	<set xpath="blocks/block[@name='woodLogSpike1']/property[@name='CreativeMode']/@value">None</set>
+	<set xpath="blocks/block[@name='woodLogSpike1']/property[@name='Damage']/@value">40</set>
+
+	<set xpath="blocks/block[@name='rWoodLogSpike2']/property[@name='Damage']/@value">50</set>
+
+	<set xpath="blocks/block[@name='rWoodMetalLogSpike3']/property[@name='Damage']/@value">60</set>
+
+	<set xpath="blocks/block[@name='scrapIronLogSpike4']/property[@name='Damage']/@value">70</set>
+
+	<set xpath="blocks/block[@name='rScrapIronLogSpike5']/property[@name='Damage']/@value">80</set>
+
+	<set xpath="blocks/block[@name='steelLogSpike6']/property[@name='Damage']/@value">100</set>
+
+	<append xpath="blocks/block[@name=steelLogSpike6']"> 	
+		<property name="DontDamageOnTouch" value="true" />
+		<property name="BuffsWhenWalkedOn" value="trapDamage1Trigger"/>
+	</append>
+</config>
