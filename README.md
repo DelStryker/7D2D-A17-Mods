@@ -1,4 +1,4 @@
-Delmod A17 Modlet Collection
+- - - - Delmod A17 Modlet Collection - - - - 
 
 This is currently a set of modlets that I have thrown together to provide some sensible quality improvements, and add a few more items to the game. The usual disclaimers and rules apply. 
 
@@ -49,7 +49,12 @@ Delmod Startup Packs - New Startup Packs
 
 	Adds bug out bags to your new character at the beginning of the game. These packs contain randomly generated clothes, weapons, and other survival type gear you might commonly find in a bug out bag.
 	Set the bags on the ground and punch them to open them.
+	
+Delmod Combiner
 
+	Adds combiner function back to the game.  
+	This provides the ability to combine two like objects into a single better quality object.  
+	The combiner is accessable via the Workbench and Vehicle Storage
 
 Delmod Archetypes - Added one new Del Stryker archetype
 
